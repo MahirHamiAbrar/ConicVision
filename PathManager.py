@@ -1,7 +1,7 @@
 import os
 # from importlib.util import find_spec
 
-# deprecated and will be removed in the later version
+# might uncomment it in the later version.
 # PROJECT_DIR_PATH = os.path.dirname(
 #     find_spec("ConicVision").origin
 # )
